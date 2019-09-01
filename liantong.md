@@ -10,5 +10,5 @@
 
 ## 扫码申请
 
-![](https://github.com/Yujun-cm/xiaoya/blob/master/9.jpg)
+![](https://github.com/Yujun-cm/xiaoya/blob/master/9.png)
 ![](https://github.com/Yujun-cm/xiaoya/blob/master/6.jpg)
